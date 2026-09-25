@@ -55,8 +55,9 @@ Open a terminal or command prompt in that directory.
 
 Run the following command:
 
-Bash
+```Bash
 python main.py
+```
 Usage Guide
 Main Menu
 Upon starting, choose from the main options:
