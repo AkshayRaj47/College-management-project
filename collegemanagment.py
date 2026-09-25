@@ -1,10 +1,3 @@
-"""COLLEGE MANAGEMENT SYSTEM WITH ATTENDANCE & LIBRARY TIMING LOGS
-Python Modules Covered:
-- Module 4: Input / Output Operations & String Formatting
-- Module 8: Control Flow Statements (Loops, Conditionals)
-- Module 9: Functions, Exception Handling & Modules (datetime)
-- Module 11: Array Data Structure (from array import array)
-- Module 12: Object-Oriented Programming (Classes, Inheritance, Encapsulation)"""
 import os
 from array import array  # Module 11: Array data structure for numeric marks/counts
 from datetime import datetime  # Module 10: Date and time tracking module
